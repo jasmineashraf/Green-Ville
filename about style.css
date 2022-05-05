@@ -1,0 +1,53 @@
+body{
+font-family:"Norwester";
+background-image:url("pic20.png");
+background-repeat: repeat;
+background-size: 41cm 20cm;
+}
+
+.topnav {
+  background-color: #4F5765;
+  overflow: hidden;
+}
+.topnav a {
+float: Right;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+background-color: #04AA6D;
+
+}
+.topnav a:hover {
+background-color:#ffd90b;
+ color: white;
+ 
+}
+.topnav a:active {
+  background-color: #04AA6D;
+  
+}
+
+.center {
+  display: block;
+  margin-left: 40%;
+  margin-right: 18%;
+  width: 20%;
+}
+h1{
+font-size:50px;
+}
+p{
+font-size:18px;
+text-align:left;
+
+}
+h2{
+font-size:50px;
+}
+
+h1::before{
+content:url(healthy.gif);
+
+}

@@ -1,0 +1,46 @@
+body{
+font-family:"Norwester";
+background-image:url("pic17.png");
+background-repeat: no-repeat;
+background-size: 41cm 20cm;
+}
+.topnav {
+  background-color: #4F5765;
+  overflow: hidden;
+}
+.topnav a {
+float: Right;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+background-color: #04AA6D;
+
+}
+.topnav a:hover {
+background-color:#ffd90b;
+ color: white;
+ 
+}
+.topnav a:active {
+  background-color: #04AA6D;
+  
+}
+.vertical-menu {
+  width: 200px;
+}
+.vertical-menu a {
+background-color: #04AA6D;
+color: white;
+display: block;
+padding: 12px;
+text-decoration: none;
+}
+.vertical-menu a:hover {
+  background-color: #fceb05;
+}
+.vertical-menu a.active {
+  background-color: #04AA6D;
+color: white;
+}

@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Green Drink</title>
+<link rel="stylesheet"type="text/css"href="green drink style.css"/>
+</head>
+<h1>Green Drink</h1>
+<body text=white>
+<div class="topnav">
+  <a href="Website%20project/about.html">About</a>
+  <a href="Website%20project/menu.html">Menu</a>
+  <a href="Website%20project/Green%20ville.html#home">Home</a>
+</div>
+<br>
+<br>
+<h1 align="center"> Green smoothie </h1>
+<img src="drink1.png" alt="drink1" hight="250px" width="250px" class="center">
+<br>
+<br>
+<p>This green smoothie is a simple, healthy and nutrient-dense recipe that will fuel your mornings!From apples to spinach to bananas,these wholesome ingredients</p>
+<p>are a great way to sneak more greens into your everyday routine. Trust me,this is one drink you’re going to want to make again and again.</p>
+<p>While the the ingredient list is extremely flexible, here’s one of my favorite combinations that’s simple yet so delicious:Milk– 1 1/2 cup of milk,</p>
+<p>or any nut milk,Spinach– 2 cups fully packed,Banana– 1 banana (frozen is best),Apple– 1 apple sliced into pieces ,Avocado– 1/4 avocado</p>
+<h1 align="center"> Orange Spinach banana smoothie</h1>
+<img src="drink2.png" alt="drink2" hight="250px" width="250px" class="center">
+<br>
+<br>
+<p>Who doesn’t love just the right sweet and sour combo? Sweet orange and banana mixed with the zing of lemon is a favorite addition to many a fruit bowl, but these</p>
+<p>superfoods taste great in smoothies too.</p>
+<p>Throw in the nutrition power of a cup of fresh spinach, and you have one of the more healthy and satisfying creations to start your day with.</p>
+<p>ingredients:1 cup fresh spinach,3/4 cup coconut water,1/2 lemon, peeled,1/2 banana,1 orange, peeled,1 serving Protein Smoothie Boost (optional)</p>
+<h1 align="center"> Tropical Green Smoothie </h1>
+<img src="drink3.png" alt="drink3" hight="250px" width="250px" class="center">
+<br>
+<br>
+<p>This blogger got it right when she said, “If you close your eyes, it tastes like a beautiful, tropical, sunny beach vacation.” Though the recipe isn’t quite magical enough to</p>
+<p>transport you to the tropics, it’ll leave you feeling awake and full of life — just like a real vacation.</p>
+<p>We also love that there are tons of options to change up the flavor, so feel free to play around with fruits and your milk of choice.</p>
+<p>ingredients:2 cups frozen spinach1 cup frozen pineapple,1 cup frozen mango,1 medium banana,1 cup strawberries,1 cup milk,1 teaspoon vanilla extract,Sweetener of choice to taste</p>
+<h1 align="center"> Vegan mango-coconut green smoothie </h1>
+<img src="drink4.png" alt="drink4" hight="250px" width="250px" class="center">
+<br>
+<br>
+<p>With only five ingredients, and the addition of a few ice cubes, this recipe is a perfect option for busy mornings or a post-workout snack.</p>
+<p>Made with fresh spinach leaves or kale, frozen mango chunks, banana, coconut milk, and a splash of orange juice, it’s both refreshing and</p>
+<p>filling. Plus, all you have to do is blend, and it’s good to chug.</p>
+<p>ingredients:1 cup fresh washed spinach leaves (or packed),1 cup fresh or frozen mango cubes,1/2 medium banana,3/4 cup light canned coconut</p>
+<p>milk (can substitute with almond milk),1/2 cup orange juice,1/2 cup ice cubes</p>
